@@ -39,6 +39,10 @@ var filegroup = [
     "<script type='text/javascript' src='libs/Zebra-Dialog/public/javascript/zebra_dialog.js'></script>",
     "<script type='text/javascript' src='libs/Zebra-Dialog/examples/public/javascript/main.js'></script>",
 
+    //成绩系统后台左边树形导航菜单
+    "<script type='text/javascript' src='libs/jquery/jQuery-2.1.3.min.js'><\/script>",
+	"<script type='text/javascript' src='js/app_tree.js'><\/script>",
+
 	// //jbox
 	// "<script type='text/javascript' src='libs/jbox-v2.3/jBox/jquery.jBox-2.3.min.js'><\/script>",
  //  	"<script type='text/javascript' src='libs/jbox-v2.3/jBox/i18n/jquery.jBox-zh-CN.js'><\/script>",

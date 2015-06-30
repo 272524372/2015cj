@@ -7,6 +7,8 @@ function loadJS(filename){
 }
 
 var filegroup = [
+
+    
 	//glyphicons 图标样式
 	"<link href='libs/glyphicons/css/glyphicons.css' rel='stylesheet'>",
 	"<link href='libs/font-awesome/css/font-awesome.min.css' rel='stylesheet'>",
@@ -16,6 +18,10 @@ var filegroup = [
 	"<link href='libs/bootstrap/css/bootstrap.css' rel='stylesheet'>",
 	// Bootstrap theme 
 	"<link href='libs/bootstrap/css/bootstrap-theme.css' rel='stylesheet'>",
+	
+	//成绩系统后台总体样式
+    "<link rel='stylesheet' href='css/admin-cj.css' type='text/css'>",
+    "<link rel='stylesheet' href='css/skins/skin-blue.css' type='text/css'>",
 
 	// select 2 
 	"<link href='libs/select2/select2.css' rel='stylesheet'>",
@@ -39,6 +45,8 @@ var filegroup = [
     "<link rel='stylesheet' href='libs/Zebra-Dialog/public/css/flat/zebra_dialog.css' type='text/css'>",
     // Zebra-Dialog弹出框样式
     "<link rel='stylesheet' href='libs/animatecss3/animate.css' type='text/css'>",
+    
+    
 
 	// Just for debugging purposes. Don't actually copy these 2 lines! 
 	// "<!--[if lt IE 9]> <script src='libs/bootstrap/js/ie8-responsive-file-warning.js'></script> <![endif]-->",
